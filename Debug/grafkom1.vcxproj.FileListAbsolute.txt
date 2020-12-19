@@ -1,0 +1,4 @@
+E:\UB\Semester 5\GrafKom\grafkomP\Debug\grafkom1.exe
+E:\UB\Semester 5\GrafKom\grafkomP\Debug\grafkom1.pdb
+D:\KULIAH\SEMESTER 5\GRAFIKA KOMPUTER\ProjectAKHIR\Projek Akhir Kentang\Debug\grafkom1.exe
+D:\KULIAH\SEMESTER 5\GRAFIKA KOMPUTER\ProjectAKHIR\Projek Akhir Kentang\Debug\grafkom1.pdb
